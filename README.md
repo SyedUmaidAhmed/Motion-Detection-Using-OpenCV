@@ -10,3 +10,5 @@ c. Numpy Library
 
 You can use a webcam or a camera of your laptop by assigning cv2.VideoCapture(0) or cv2.VideoCapture(1).
 The project save the motion images in a folder with time stamp.
+
+Here you can see examples of some of the images with time and date stamp.
